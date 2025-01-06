@@ -3,6 +3,7 @@
 # Step 1
 First install docker and docker-compose in your system
 ```bash
+apt update
 apt install docker.io -y
 apt install docker-compose -y
 docker -v
