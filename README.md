@@ -12,7 +12,7 @@ docker-compose --version
 # step 2
 Git clone the code in your local system
 ```bash
-git clone
+git clone https://github.com/muhammadaliazhar/Deployment-of-Django-app-with-Nginx-and-Mysql.git
 ```
 
 Step 3
