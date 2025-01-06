@@ -1,5 +1,8 @@
 # Deployment-of-Django-app-with-Nginx-and-Mysql
 
+![image](https://github.com/user-attachments/assets/9dc3d3a2-576a-4457-ae5e-919863d2efec)
+
+
 # Step 1
 First install docker and docker-compose in your system
 ```bash
